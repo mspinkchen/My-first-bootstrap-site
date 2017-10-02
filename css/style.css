@@ -1,0 +1,32 @@
+.my-nav{
+  background-color: #FFB6C1
+
+}
+
+.my-nav ul{
+  margin:10px 0;
+}
+
+.my-btn{
+  margin-right: 10px;
+}
+
+
+body{
+  padding-top:72px;
+}
+
+
+table{
+  font-size: 14px;
+  text-align:left;
+}
+
+/*讓內容靠上對齊*/
+
+
+/*讓表格資料離標題遠一點*/
+td{
+  color:#666;
+  padding: 10px 10px;
+}
